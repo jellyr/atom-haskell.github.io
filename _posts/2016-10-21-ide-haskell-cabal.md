@@ -1,3 +1,10 @@
+---
+layout:page
+date:2016-10-21 22:00:00
+category:doc
+order:0
+---
+
 # ide-haskell-cabal package
 
 The `ide-haskell-cabal` package provides a build backend for `ide-haskell`

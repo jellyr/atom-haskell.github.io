@@ -1,3 +1,10 @@
+---
+layout:page
+date:2016-10-21 22:00:00
+category:doc
+order:0
+---
+
 # IDE-Haskell [![Join the chat at https://gitter.im/atom-haskell/ide-haskell](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/atom-haskell/ide-haskell?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Welcome to IDE-Haskell plugin for amazing [Atom](http://atom.io) editor! This

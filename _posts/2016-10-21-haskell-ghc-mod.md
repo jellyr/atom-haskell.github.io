@@ -1,3 +1,10 @@
+---
+layout:page
+date:2016-10-21 22:00:00
+category:doc
+order:0
+---
+
 # haskell-ghc-mod atom package
 
 This package is primarily intended as backend for [ide-haskell](https://atom.io/packages/ide-haskell).

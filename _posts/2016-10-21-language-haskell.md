@@ -1,3 +1,10 @@
+---
+layout:page
+date:2016-10-21 22:00:00
+category:doc
+order:0
+---
+
 # Haskell support in Atom
 
 Adds syntax highlighting and snippets to Haskell files in Atom.

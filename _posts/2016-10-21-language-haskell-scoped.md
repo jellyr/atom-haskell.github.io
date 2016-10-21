@@ -1,3 +1,10 @@
+---
+layout:page
+date:2016-10-21 22:00:00
+category:doc
+order:0
+---
+
 # language-haskell-scoped package
 
 **WARNING:** Uses some horrible hacks, so not at all guaranteed to work.
