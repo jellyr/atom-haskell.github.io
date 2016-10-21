@@ -1,5 +1,5 @@
 ---
-tite:test
+title:"test"
 layout:page
 date:2016-10-21 22:00:00
 category:doc
