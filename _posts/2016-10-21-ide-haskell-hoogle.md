@@ -14,32 +14,32 @@ Package requires `hoogle` executable, plus you will need to build hoogle databas
 
 1. Install `hoogle` via cabal, stack or any package manager.
 
-Cabal:
+    Cabal:
 
-```
-cabal install hoogle
-```
+    ```
+    cabal install hoogle
+    ```
 
-Stack:
+    Stack:
 
-```
-stack install hoogle
-```
+    ```
+    stack install hoogle
+    ```
 
 2. Build local hoogle database:
 
-Basic database:
+    Basic database:
 
-```
-hoogle data
-```
+    ```
+    hoogle data
+    ```
 
-Extended database **WARNING: this will take a lot of time and memory!**:
+    Extended database **WARNING: this will take a lot of time and memory!**:
 
-```
-hoogle data all
-```
+    ```
+    hoogle data all
+    ```
 
 3. Point this package to `hoogle` executable, if it's not in `PATH`:
 
-Open Atom's settings, Packages, find ide-haskell-hoogle, then set 'Hoogle Path' to path to `hoogle` executable.
+    Open Atom's settings, Packages, find ide-haskell-hoogle, then set 'Hoogle Path' to path to `hoogle` executable.
