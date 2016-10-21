@@ -1,18 +1,12 @@
 ---
 layout: default
-title: "Jekyll Docs Template"
+title: "Atom-Haskell documentation"
 ---
 
-### Get Started
+Welcome to Atom-Haskell documentation site.
 
-Start by [creating a new post](http://jekyllrb.com/docs/posts/) one of the categories listed in `_config.yml`. It will appear in the navigation on the left once recompiled. Or use the supplied script to make creating pages easier:
+Information collected on these pages should help you get started with Haskell in Atom editor.
 
-```bash
-ruby bin/jekyll-page "Some Page Title" ref
-```
+At the moment, this site mostly only collects information from various Atom-Haskell project READMEs. Proper documentation/tutorials are work-in-progress.
 
-#### Don't Forget
-
-- Add your own content to this page (i.e. `index.md`) and change the `title`
-- Change `title` and `subtitle` defined in `config.yml` for your site
-- Set the `baseurl` in `_config.yml` for your repo if deploying to GitHub pages
+Click one of the links on the left to start reading.
