@@ -1,5 +1,5 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'Atom-Haskell documentation'
+title: 'Atom-Haskell'
 subtitle: 'Programming in Haskell using Atom editor'
 
 # if you wish to integrate disqus on pages set your shortname here
